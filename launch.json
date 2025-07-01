@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "SnakeGame",
+      "request": "launch",
+      "mainClass": "SnakeGame",
+      "projectName": "Snake_Game",
+      "vmArgs": "-cp \"src;lib/sqlite-jdbc-3.42.0.0.jar\""
+    }
+  ]
+}
+
+
